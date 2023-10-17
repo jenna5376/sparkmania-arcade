@@ -8,5 +8,6 @@ All assets were created in Procreate and the game was developed using p5.js (Jav
 
 ## Demo :popcorn: 
 
-https://github.com/jenna5376/sparkmania-arcade/assets/62906996/62a44904-0bfa-4f56-b291-c1fa3397c173
+https://github.com/jenna5376/sparkmania-arcade/assets/62906996/fd4c26ca-8b65-4b25-b8ef-a51a0758f505
+
 
