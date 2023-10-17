@@ -1,10 +1,10 @@
 # Sparkmania Arcade 🎮
 
-[Check out the project here](https://editor.p5js.org/jenna5376/full/e1CxxFbvU)
+[Try out the game here](https://editor.p5js.org/jenna5376/full/e1CxxFbvU)
 
-Sparkmania Arcade is an online arcade with three mini-games: wack-a-mole, bread shooter, and dance party. You can select one of six characters to play as, and you will get a total score based on your performance each round.
+Sparkmania Arcade is an online arcade with three mini-games: whac-a-mole, bread shooter, and dance party. You can select one of six characters to play as, and you will get a total score based on your performance each round. As my teammate (Tatiana Jimanez) and I were both fans of Nintendo games as kids, we wanted our game to bring back a sense of nostalgia and excitement!
 
-All assets were created in Procreate and the game was developed using p5.js (JavaScript library). Our team consisted of two game designers/developers.
+All assets were created in Procreate and the game was developed using p5.js (JavaScript library).
 
 ## Demo :popcorn: 
 
